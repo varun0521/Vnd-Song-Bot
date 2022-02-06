@@ -15,7 +15,7 @@ A telegram bot that can download songs
 
 The easiest way to deploy this Song Bot  <br><br>
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VenujaThilakarathna/Vnd-Song-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/varun0521/Vnd-Song-Bot)
 
 ### Mandatory Vars 
 ```
